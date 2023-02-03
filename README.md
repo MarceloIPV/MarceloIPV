@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, Soy Marcelo Pérez</h1>
-# 💫 About Me:
+
+
+## 💫 About Me:
 🔭 Actualmente estudiante de Ingeniería en Software<br>👯 Gustoso del trabajo en equipo<br>🌱 Aposionado por el diseño y programación web<br>⚡ Entusiasta y curioso sobre la web<br>🍃 Since 98'<br>📍 Ambato | 🇪🇨
 
 
