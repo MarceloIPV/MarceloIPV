@@ -33,10 +33,17 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=flat-square&logo=Prezi&logoColor=white)
 
 # 📊 Estadísticas de GITHUB:
-![](https://github-readme-stats.vercel.app/api?username=MarceloIPV&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarceloIPV&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloIPV&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=MarceloIPV&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloIPV&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
 ---
 [![](https://visitcount.itsvg.in/api?id=MarceloIPV&icon=2&color=8)](https://visitcount.itsvg.in)
 
