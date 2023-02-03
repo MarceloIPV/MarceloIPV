@@ -2,10 +2,13 @@
 
 
 <h1 align="center"> 💫 Sobre Mi</h1>
-🔭 Actualmente estudiante de Ingeniería en Software<br>👯 Gustoso del trabajo en equipo<br>🌱 Aposionado por el diseño y programación web<br>⚡ Entusiasta y curioso sobre la web<br>🍃 Since 98'<br>📍 Ambato | 🇪🇨
+
+🔭 Actualmente estudiante de Ingeniería en Software
+<br>👯 Gustoso del trabajo en equipo<br>🌱 Aposionado por el diseño y programación web<br>⚡ Entusiasta y curioso sobre la web<br>🍃 Since 98'<br>📍 Ambato | 🇪🇨
 
 
 <h1 align="center"> 🌐 Redes Sociales:</h1>
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marcelo.perez.790) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marce_prez) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/marcelo10perez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/marceloperez21) 
 
 <h1 align="center">  💻 Habilidades y Conocimientos:</h1>
