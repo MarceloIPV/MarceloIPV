@@ -1,16 +1,16 @@
 <h1 align="center">Hola 👋, Soy Marcelo Pérez</h1>
 
 
-## 💫 Sobre Mi:
+<h1 align="center"> 💫 Sobre Mi</h1>
 🔭 Actualmente estudiante de Ingeniería en Software<br>👯 Gustoso del trabajo en equipo<br>🌱 Aposionado por el diseño y programación web<br>⚡ Entusiasta y curioso sobre la web<br>🍃 Since 98'<br>📍 Ambato | 🇪🇨
 
 
-## 🌐 Redes Sociales:
+<h1 align="center"> 🌐 Redes Sociales:</h1>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marcelo.perez.790) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marce_prez) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/marcelo10perez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/marceloperez21) 
 
-# 💻 Habilidades y Conocimientos:
+<h1 align="center">  💻 Habilidades y Conocimientos:</h1>
 
-### Lenguajes de Porgramación:
+<h2 align="center"> Lenguajes de Porgramación:</h2>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
 
 
