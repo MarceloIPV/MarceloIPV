@@ -13,7 +13,7 @@
 
 <h1 align="center">  💻 Habilidades y Conocimientos:</h1>
 
-<h2 align="center"> Lenguajes de Porgramación:</h2>
+<h2 align="center"> Lenguajes de Programación:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
